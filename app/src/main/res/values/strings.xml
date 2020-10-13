@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Profile Layout</string>
+    <string name="username">Evan Prasetyo</string>
+    <string name="vanevaan">\@vanevaan</string>
+    <string name="bio_short">Automotive and Gadget Enthusiast Newcomer in Programming</string>
+    <string name="github_profile">https://github.com/prasetyoevan</string>
+    <string name="github">GitHub</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/evanprasetyo</string>
+    <string name="gmail">Gmail</string>
+    <string name="gmail_address">1818033@scholar.itn.ac.id</string>
+    <string name="tugas_profile_layout">Tugas Profile Layout</string>
+    <string name="owner">Evan Prima Prasetyo || 1818033</string>
+    <string name="click_me">Click Me !</string>
+</resources>
